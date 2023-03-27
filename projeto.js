@@ -1,19 +1,4 @@
-var imc= 17;
-var massa =55;
-var altura=1.60;
-var calculo=(altura*altura/massa)
-
-
-
-if (calculo>=18,5 && calculo<=24,9){
-    console.log("SEU PESO ESTÁ NORMAL");
-
-}else if(calculo)
-
-
-
-/* var alimentação='perda de gordura e ganho de massa'
-
+var alimentação='perda de gordura e ganho de massa'
 switch (alimentação) {
     case "ganho de massa":
         console.log("Alimentos ricos em proteínas são muito importantes para ganhar massa magra, então a sua dieta vai ser:")
@@ -40,6 +25,5 @@ switch (alimentação) {
          break
     default:
         console.log("não existe esse plano alimentar")
-
     
-}    */
+} 

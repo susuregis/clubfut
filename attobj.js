@@ -2,8 +2,8 @@
 
 //Imprima as propriedades do objeto. •Imprima a localização, horário e os dias de funcionamento.
 
-
-/* var armazém ={
+/* 
+var armazém ={
     localização : "campo grande",
     anodefundaçao: 1989,
     responsavel:"joel",
@@ -23,11 +23,13 @@ console.log (armazém.produtos) */
 
 //Imprima as propriedades de seu filme preferido.
 
-var filmes ={
+/* var filmes ={
     título:"ALADDIN",
     diretor:"Guy Ritchie",
     atoresprin:['Scott Weinger, Jonathan Freeman, Robin Williams, Linda Larkin, Frank Welker, Gilbert Gottfried , Douglas Seale,'],
     gênero:['romance','aventura','ficcição'],
     anolançamento:1992,
 }
-console.log(filmes.título+","+ filmes.diretor+','+ filmes.atoresprin+","+ filmes.gênero+","+ filmes.anolançamento)
+console.log(filmes.título+","+ filmes.diretor+','+ filmes.atoresprin+","+ filmes.gênero+","+ filmes.anolançamento) */
+
+
